@@ -1,0 +1,29 @@
+h1{
+    color: blue;
+}
+#title{
+    color: aqua;
+}
+.newcolor{
+    color:brown;
+}
+img{
+    height: 150px;
+    width: 150PX;
+}
+div{
+    border: 5px solid black;
+    margin: 40px;
+    background-color: aquamarine;
+    padding-right: 20px;
+}
+body{
+    background-color: bisque;
+}
+li{
+    display: inline;
+}
+input{
+    display: block;
+    background-color: blueviolet;
+}
